@@ -1,0 +1,16 @@
+РЕЗУЛЬТАТ:
+
+
+test_add_positive_numbers (__main__.TestCalculatorBasicOperations.test_add_positive_numbers) ... ok
+test_add_negative_numbers (__main__.TestCalculatorBasicOperations.test_add_negative_numbers) ... ok
+test_add_mixed_numbers (__main__.TestCalculatorBasicOperations.test_add_mixed_numbers) ... ok
+...
+
+======================================================================
+TEST COVERAGE SUMMARY
+======================================================================
+Tests run: 72
+Failures: 0
+Errors: 0
+Success: True
+======================================================================
